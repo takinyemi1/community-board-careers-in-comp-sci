@@ -32,7 +32,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTYxb2dvY3Mxa2VxbTV3bWlmODY2ZDN4OGRrOGVldm9uaW8wa3cwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2d0WrjKTy5I1GMw6Rh/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<a href="https://giphy.com/gifs/2d0WrjKTy5I1GMw6Rh"">via GIPHY</a>
+<a href="https://giphy.com/gifs/2d0WrjKTy5I1GMw6Rh">via GIPHY</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap...  
