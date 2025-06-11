@@ -41,7 +41,6 @@ GIF created with LICEcap...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 One challenge included creating the grid for the project. I originally wanted to do 3 three events per row, but I was unable to get the measurement correctly, so I just left it as two per row
 
 ## License
